@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id clearRouteButton
+id mapview
+id zoomToKemerovoButton
+id zoomToUserLocationButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.YandexMapApp_Lab7
+style Theme.YandexMapApp_Lab7
+xml backup_rules
+xml data_extraction_rules
